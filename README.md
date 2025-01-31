@@ -1,2 +1,4 @@
 # NIJL-EAJRS-kotenseki-seminar
-Resources from seminar
+
+[リンク](https://github.com/naomimag/NIJL-EAJRS-kotenseki-seminar/blob/main/resrouces.md)
+
